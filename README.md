@@ -27,7 +27,7 @@ This is a simple web-based platform that helps users manage billing tasks and ha
 ## Features
 
 - Simple login form  
-- Dashboard labeled "TRENDS"  
+- Dashboard  
 - Basic layout for billing and customer support  
 - Uses Firebase for login  
 - Works with HTML, CSS, and JavaScript (no frameworks)
